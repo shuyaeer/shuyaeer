@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @shuyaeer
-- 👀 I’m interested in web developping with golang and Python.
-- 🌱 I’m currently learning Computer Science at Sophia univ.
-
-
-
-
+- 　I'm a junior at Sophia Univ.
+- 　I mainly create the command line tool with Go, Python Ruby and so on.
+- 　Now, I'm strongry interested in Go,so I Enthusiasm to develop [Fingo](https://github.com/shuyaeer/fingo)
+- 　Fingo is designated to substitute the sh/find
