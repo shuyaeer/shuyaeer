@@ -12,6 +12,9 @@ Y8a     a8P 88       88 "8a,   ,a88   `8b,d8'   88,    ,88 "8b,   ,aa "8b,   ,aa
                                        d8'                                                   
 
 ```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={名前}&layout=compact)]
+(https://github.com/anuraghazra/github-readme-stats)
+
 
 I mainly develop cli, api client and bot with Python, Go, Ruby.
 
