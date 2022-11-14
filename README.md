@@ -12,8 +12,6 @@ Y8a     a8P 88       88 "8a,   ,a88   `8b,d8'   88,    ,88 "8b,   ,aa "8b,   ,aa
                                        d8'                                                   
 
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuyaeer&layout=compact)]
-(https://github.com/anuraghazra/github-readme-stats)
 
 
 I mainly develop cli, api client and bot with Python, Go, Ruby.
@@ -27,3 +25,8 @@ developing these clients even as cli
 ## CLI with Go
 <https://github.com/shuyaeer/fingo>  
 <https://github.com/shuyaeer/csvgoexcel>  
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuyaeer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
